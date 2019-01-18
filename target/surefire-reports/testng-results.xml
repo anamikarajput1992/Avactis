@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="80211" started-at="2019-01-16T16:52:47Z" finished-at="2019-01-16T16:54:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="80211" started-at="2019-01-16T16:52:47Z" finished-at="2019-01-16T16:54:07Z">
+      <class name="storePO.HomePageTest">
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:storePO.HomePageTest@34b7bfc0]" name="BeforeClass" is-config="true" duration-ms="21569" started-at="2019-01-16T16:52:47Z" finished-at="2019-01-16T16:53:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method status="PASS" signature="RegisterPage()[pri:0, instance:storePO.HomePageTest@34b7bfc0]" name="RegisterPage" duration-ms="14792" started-at="2019-01-16T16:53:09Z" finished-at="2019-01-16T16:53:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterPage -->
+        <test-method status="PASS" signature="purchaseTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:storePO.HomePageTest@34b7bfc0]" name="purchaseTest" duration-ms="19051" started-at="2019-01-16T16:53:24Z" data-provider="dataProviderMethod" finished-at="2019-01-16T16:53:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Computers]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Notebooks]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Asus Eee PC Touch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaseTest -->
+        <test-method status="PASS" signature="purchaseTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:storePO.HomePageTest@34b7bfc0]" name="purchaseTest" duration-ms="13508" started-at="2019-01-16T16:53:43Z" data-provider="dataProviderMethod" finished-at="2019-01-16T16:53:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DVD]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Classic Films]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Forbidden Planet]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaseTest -->
+        <test-method status="PASS" signature="purchaseTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:storePO.HomePageTest@34b7bfc0]" name="purchaseTest" duration-ms="10867" started-at="2019-01-16T16:53:56Z" data-provider="dataProviderMethod" finished-at="2019-01-16T16:54:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Apparel]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Avactis T-Shirt]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaseTest -->
+        <test-method status="PASS" signature="AfterClass()[pri:0, instance:storePO.HomePageTest@34b7bfc0]" name="AfterClass" is-config="true" duration-ms="0" started-at="2019-01-16T16:54:07Z" finished-at="2019-01-16T16:54:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+      </class> <!-- storePO.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
